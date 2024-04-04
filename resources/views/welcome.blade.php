@@ -11,7 +11,7 @@
 
 <body>
     <div class="container text-center my-5">
-        <h1 class="mb-4">Belajar Controller & View pada Laravel</h1>
+        <h1 class="mb-4">Laravel Database Tahap Dasar</h1>
 
         <img class="img-thumbnail" src="{{ Vite::asset('resources/images/coba.png') }}" alt="image">
         <h1></h1>
